@@ -59,7 +59,7 @@ Press **Start** to begin visualizing the selected sorting algorithm on the datas
  ![image at](https://github.com/0maaz-01/Sorting_Visualizer/blob/main/Images/algo.png)
 
 **Speed Slider:**   
-Adjusts the visualization speed.
+Adjusts the visualization speed. As the speed setting increases, the visualization slows down, allowing each step in the sorting process to be observed in greater detail.
 
 ![image at](https://github.com/0maaz-01/Sorting_Visualizer/blob/main/Images/speed.png)
 
